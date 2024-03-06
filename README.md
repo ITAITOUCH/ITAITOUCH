@@ -6,4 +6,5 @@
 🛠️ I pride myself on my expertise with powerhouse PT tools like Burp Suite, Metasploit, Nessus, and my adeptness at OSINT methodologies. These tools are not just part of my arsenal; they're extensions of my curiosity and commitment to securing the digital landscape.
 
 🖥️ Beyond penetration testing, I've ensured the security and resilience of IT infrastructures, managing Windows Server environments, Active Directory, and navigating the complexities of DC and DNS with ease.
+
 --->
